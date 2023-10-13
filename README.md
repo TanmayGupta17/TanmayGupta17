@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![An image of @tanmaygupta17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanmaygupta17)](https://holopin.io/@tanmaygupta17)
+
 
 <!--
 **TanmayGupta17/TanmayGupta17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
