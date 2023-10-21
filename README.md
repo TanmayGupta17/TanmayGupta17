@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![An image of @tanmaygupta17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanmaygupta17)](https://holopin.io/@tanmaygupta17)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanmaygupta17&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
 <!--
